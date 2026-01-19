@@ -2,6 +2,7 @@
 .avatar.proportioned {
   width: 300px;
   height: auto;
+  outline: 4px solid red;
 }
 .avatar.distorted {
   width: 200px;
