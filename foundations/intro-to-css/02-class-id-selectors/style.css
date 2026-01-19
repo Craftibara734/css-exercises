@@ -8,11 +8,11 @@
   color: #0000ff;
   font-size: 36px;
 }
-#two {
+.prgrph.two {
   font-size: 24px;
 }
 #three {
   background-color: #88ff88;
   font-size: 24px;
+  font-weight: 700;
 }
-  
