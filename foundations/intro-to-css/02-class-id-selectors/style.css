@@ -2,7 +2,7 @@
 
 .prgrph {
   background-color: #ff8888;
-  font-family: "Verdana", "DejaVu Sans", sans-serif;
+  font-family: "Verdana", "DejaVu Sans", sans-serif !important;
 }
 #one {
   color: #0000ff;
